@@ -8,6 +8,12 @@ Setup
 
 
 Create Receiver Application
+1. Go through reference on how to create a receiver application.
+2. check the example applciation (jmsreceiver)added.
+3. run the main method. It should be listening for messages on myQueue.
+
+Create a Sender Application
+1. 
 
 
 References:

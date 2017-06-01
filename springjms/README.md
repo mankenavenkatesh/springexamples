@@ -18,3 +18,11 @@ Create a Sender Application
 
 References:
 Spring integration with jms - https://www.javatpoint.com/spring-and-jms-integration
+
+
+Spring jms listeners
+https://docs.spring.io/spring/docs/3.0.x/spring-framework-reference/html/jms.html
+
+Spring jms channel
+http://docs.spring.io/spring-integration/reference/html/jms.html
+https://www.youtube.com/watch?v=icIosLjHu3I

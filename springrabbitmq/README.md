@@ -14,6 +14,17 @@ https://www.rabbitmq.com/management.html
 access it at
 http://localhost:15672/#/
 
+
+Docker rabbitmq
+https://spring.io/guides/gs/messaging-rabbitmq/
+1. create docker-compose.yml file with
+rabbitmq:
+  image: rabbitmq:management
+  ports:
+    - "5672:5672"
+    - "15672:15672"
+2. run docker-compose up to get rabbitmq container up and running.    
+
 References
 
 
